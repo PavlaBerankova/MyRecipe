@@ -28,7 +28,7 @@ struct CategoryItemView: View {
                 .shadow(radius: 2, x: 2, y: 2)
                 
         }
-        .padding(.bottom, 20)
+        .padding(.bottom, 10)
     }
 }
 
