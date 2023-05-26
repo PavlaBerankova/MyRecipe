@@ -23,7 +23,7 @@ struct AllRecipesView: View {
                 }
             }
             .listStyle(.plain)
-            .navigationTitle("Recepty")
+            .navigationTitle("All Recipes")
         }
         
     }
