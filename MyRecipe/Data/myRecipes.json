@@ -1,0 +1,244 @@
+[
+  {
+    "id": "palacinky",
+    "category": "Snídaně",
+    "image": "palacinky",
+    "name": "Palačinky",
+    "ingredients": [
+      "500 ml mléka",
+      "200 g mouky",
+      "2 vajíčka",
+      "1 lžička soli",
+      "1/2 pudinku",
+      "1 lžička skořice",
+      "citronová kůra"
+    ]
+  },
+  {
+    "id": "vafle",
+    "category": "Snídaně",
+    "image": "vafle",
+    "name": "Vafle",
+    "ingredients": [
+      "2 hrnky hladké mouky",
+      "1,5 hrnku mléka",
+      "2 vejce",
+      "2 lžičky kypřícího prášku",
+      "2 lžíce oleje",
+      "špetka soli",
+      "cukr nebo med"]
+  },
+  {
+    "id": "spenat",
+    "category": "Obědy",
+    "image": "spenat",
+    "name": "Špenát",
+    "ingredients": [
+      "15 g másla",
+      "1 malá cibule",
+      "1 lžíce hladké mouky",
+      "100 ml mléka",
+      "400 g mraženého špenátu",
+      "100 ml smetany na vaření",
+      "česnek"],
+    "directions": [
+      "Máslo rozpustíme v pánvi, přidáme cibuli a opékáme 5 minut. Přidáme mouku a 2 minuty mícháme.",
+      "Opatrně přiléváme mléko a na mírném plameni vaříme 5 minut dokud bešamel nehoustne.",
+      "Špenát se smetanou a nastrouhaným česnekem vmícháme k bešamelu.",
+      "Dochutíme pepřem a solí."
+    ]
+  },
+  {
+    "id": "sekana",
+    "category": "Obědy",
+    "image": "sekana",
+    "name": "Sekaná",
+    "ingredients": [
+      "750 g mletého masa (vepřové a hovězí)",
+      "1 cibule",
+      "2 vejce",
+      "3 rohlíky + mléko na namočení",
+      "3 stroužky česneku",
+      "2 zarovnané lžičky soli",
+      "2 lžičky majoránky a oregana",
+    "100 g sýru na kostičky"
+    ],
+    "directions": [
+      "Pekáček podlijeme vodou a pečeme na 160 stupňů cca 1 hodinu.",
+      "Poté vypneme a necháme 15 minut dojít."
+    ]
+  },
+  {
+    "id": "pernik",
+    "category": "Dezerty",
+    "image": "pernik",
+    "name": "Perník",
+    "ingredients": [
+      "2 hrnky hladké mouky",
+      "1 hrnek polohrubé mouky",
+      "1 hrnek cukru",
+      "1 pudink",
+      "3 lžíce kakaa",
+      "1 lžička skořice",
+      "1 prášek do perníku",
+      "1 prášek do pečiva",
+      "1 vanilkový cukr",
+      "2 hrnky mléka",
+      "1 hrnek oleje",
+      "2 vajíčka",
+      "3 lžíce marmelády",
+      "banán nebo jabka na zvláčnění"
+    ],
+    "directions": [
+      "Pečeme na 180 stupňů asi 30 minut."
+    ]
+  },
+  {
+    "id": "babovka",
+    "category": "Dezerty",
+    "image": "babovka",
+    "name": "Bábovka",
+    "ingredients": [
+      "300 g polohrubé mouky",
+      "200 g cukr moučka",
+      "6 vajíček",
+      "150 ml oleje",
+      "150 ml mléka",
+      "prášek do pečiva",
+      "kůra z citronu"
+    ],
+    "directions": [
+      "Vyšleháme vajíčka s cukrem a potom vmícháme zbytek surovin.",
+      "Pečeme na 180 stupňů asi 30 - 45 minut."
+    ]
+  },
+  {
+    "id": "termix",
+    "category": "Svačiny",
+    "image": "termix",
+    "name": "Termix",
+    "ingredients": [
+      "1 pudink",
+      "400 ml mléka",
+      "cukr",
+      "100 g zakysané smetany",
+      "100 g tvarohu",
+      "2 lžíce másla"
+    ],
+    "directions": [
+      "Uvaříme pudink a ihned vmícháme zbytek surovin.",
+      "Necháme vychladnout."
+    ]
+  },
+  {
+    "id": "mrkvove tycinky",
+    "category": "Svačiny",
+    "image": "mrkvoveTycinky",
+    "name": "Mrkvové tyčinky",
+    "ingredients": [
+      "120 g hladké (špaldové) mouky",
+      "100 g lučiny",
+      "100 g másla",
+      "50 g nastrouhané mrkve",
+      "špetka soli",
+      "sýr na posypání"
+    ],
+    "directions": [
+      "Všechny suroviny kromě sýru smícháme.",
+      "Hmotu dáme mezi dva pečící papíry a rozválíme na placku.",
+      "Posypeme sýrem a rozkrájíme na proužky (tyčinky).",
+      "Pečeme na 180 stupňů cca 20 minut."
+    ]
+  },
+  {
+    "id": "brokolicova",
+    "category": "Polévky",
+    "image": "brokolicovaPolevka",
+    "name": "Brokolicová",
+    "ingredients": [
+      "1 brokolice",
+      "1 mrkev",
+      "1 cibule",
+      "1 brambora",
+      "3 lžíce zakysané smetany",
+      "kurkuma",
+      "2 stroužky česneku"
+    ],
+    "directions": [
+      "Osmahneme cibulku s česnekem a zalijeme 1l vody.",
+      "Přidáme brokolici, mrkev a brambory a vaříme 15 minut.",
+      "Rozmixujeme a vaříme dalších 15 minut.",
+      "Nakonec přidáme smetanu, kurkumu a osolíme."
+    ]
+  },
+  {
+    "id": "bramboracka",
+    "category": "Polévky",
+    "image": "bramborackaPolevka",
+    "name": "Bramboračka",
+    "ingredients": [
+      "500 g brambor",
+      "1 lžíce oleje",
+      "1 stroužek česneku",
+      "1/2 cibule",
+      "1 mrkev",
+      "1 lžička tymiánu",
+      "1 bobkový list",
+      "2 plátky anglické slaniny",
+      "sůl"
+    ],
+    "directions": [
+      "Orestujeme cibuli s česnekem, přidáme brambory, mrkev a zalijeme vodou tak, aby byli ponořené.",
+      "Přidáme koření a vaříme do změknutí surovin.",
+      "Rozmixujeme a posypeme slaninou."
+    ]
+  },
+  {
+      "id": "rohliky",
+      "category": "Pečivo",
+      "image": "rohliky",
+      "name": "Rohlíky",
+      "ingredients": [
+          "500 g hladké mouky",
+          "1/2 kostky čerstvého droždí (21 g)",
+          "300 ml vlažného mléka",
+          "1/2 lžičky cukru",
+          "5 g soli",
+          "60 g oleje, případně másla nebo sádla",
+          "hrubá sůl nebo mák na posypání"
+      ],
+      "directions": [
+          "Droždí umístěte do menší misky, posypte cukrem a rozšťouchejte vidličkou pokud možno na kaši. Zasypte lžící mouky z odměřeného množství, přilijte třetinu mléka, rozmíchejte a nechte 10 minut zpěnit na kvásek.",
+          "Mouku smíchejte se solí, olejem, zbytkem mléka a zpěněným kváskem. Vložte do kuchyňského robota s hnětacím hákem a nechte deset minut zpracovávat na těsto a prohníst. Výsledkem by mělo být hebké, téměř nelepivé těsto, měkké a poddajné jako plastelína. Zdá-li se vám v průběhu příliš suché, přilijte lžíci nebo dvě mléka, anebo přisypte mouku, pokud je vlhké",
+          "Uhnětené těsto vložte do mísy lehce vytřené olejem, zakryjte ho fólií, aby neosychalo, a nechte při pokojové teplotě kynout tři čtvrtě hodiny, až získá dvojnásobný objem.",
+          "Z těsta uděláme rohlíky a potřeme vodou. Můžeme posypat hrubou solí nebo mákem.",
+          "Rohlíky nechte na plechu kynout dvacet minut. Mezitím vyhřejeme troubu na 190 stupňů, případně jen na 170, pokud můžete zapnout horkovzduch.",
+          "Vložte do trouby a pečte 10 minut. Smíchejte lžíci soli se 100 ml vody a po uplynutí této doby potřete rohlíky slanou vodou. Zároveň otočte plechy zadní stranou dopředu a navíc prohoďte jejich pozice v troubě. Dopékejte ještě 7-10 minut do světle hnědé barvy",
+          "Upečené pečivo nechte vychladnout na mřížce."
+      ]
+  },
+  {
+      "id": "kureNaPaprice",
+      "category": "Obědy",
+      "image": "kureNaPaprice",
+      "name": "Kuře na paprice",
+      "ingredients": [
+          "1 kg kuřecích stehen",
+          "2 cibule",
+          "500 ml vývaru nebo vody",
+          "250 ml smetany ke šlehání",
+          "2 lžíce oleje",
+          "2 lžíce mouky",
+          "1 lžíce másla",
+          "1 lžíce mleté papriky",
+          "sůl, pepř"
+      ],
+      "directions": [
+          "Kuřecí stehna osolíme a necháme odležet v lednici (klidně i přes noc). Po odležení osušíme papírovým ubrouskem. Cibuli nakrájíme nadrobno",
+          "Rozehřejem olej a kuře kůží dolů zprudka orestujeme dozlatova z obou stran.",
+          "Kuře dáme stranou. Přidáme lžíci másla a nasekanou cibuli. Zmírníme trochu plamen a pomalu necháme cibuli zesklovatět (8 až 10 minut, ale ne zase, aby chytila výraznou barvu). Přidáme mouku s mletou paprikou a krátce zasmahneme.",
+          "Zalijeme horkým vývarem (vodou). Vložíme kousky kuřete a necháme pomalu táhnout (45 - 60 minut).",
+          "Maso vyjmeme a obereme. Přidáme smetanu a rozmixujeme dohladka. Poté maso zase vrátíme a necháme ještě chvíli povařit."
+      ]
+  }
+]

@@ -1,0 +1,31 @@
+[{
+        "id": 1,
+        "name": "Snídaně",
+        "image": "breakfastImage"
+    },
+    {
+        "id": 2,
+        "name": "Svačiny",
+        "image": "snackImage"
+    },
+    {
+        "id": 3,
+        "name": "Obědy",
+        "image": "lunchImage"
+    },
+    {
+        "id": 4,
+        "name": "Polévky",
+        "image": "soupImage"
+    },
+    {
+        "id": 5,
+        "name": "Dezerty",
+        "image": "dessertImage"
+    },
+    {
+        "id": 6,
+        "name": "Pečivo",
+        "image": "breadImage"
+    }
+]
