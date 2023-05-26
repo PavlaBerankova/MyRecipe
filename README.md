@@ -1,6 +1,6 @@
 # MyRecipe app
 
-##Application with my recipes by category or show you all recipes.
+## Application with my recipes by category or show you all recipes.
 
 I learned in this project:
 
