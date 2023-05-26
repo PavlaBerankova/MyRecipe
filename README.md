@@ -6,7 +6,7 @@ I learned in this project:
 
  - JSON parse
  - MVVM architecture
- - @ObservedObject, @ObserableObject, @Published
+ - @ObservedObject, @ObservableObject, @Published
  - NavigationStack, NavigationLink
  - TabView
  - Grid Layout
