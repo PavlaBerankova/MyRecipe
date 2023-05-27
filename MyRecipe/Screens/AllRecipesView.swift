@@ -9,11 +9,11 @@ import SwiftUI
 
 struct AllRecipesView: View {
     @ObservedObject var model = RecipeModel()
-    
+
     var body: some View {
         NavigationStack {
             List {
-                ForEach(model.recipes) { recipe in
+                ForEach(sortedRecipes()) { recipe in
                     NavigationLink {
                         RecipeDetailView(recipe: recipe)
                     } label: {
@@ -27,10 +27,16 @@ struct AllRecipesView: View {
         }
         
     }
+    
+    private func sortedRecipes() -> [Recipe] {
+        model.recipes.sorted( by: { $0.name < $1.name} )
+    }
+    
 }
 
 struct AllRecipesView_Previews: PreviewProvider {
     static var previews: some View {
+        
         AllRecipesView()
     }
 }
