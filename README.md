@@ -20,7 +20,7 @@ To download and test the Guess Number app on your local machine using GitHub and
 
 2. Open Terminal on your Mac and go (create) to the folder to which you want to clone the project
 
-3. Clone the Guess Number repository by running the following command:
+3. Clone the MyRecipe repository by running the following command:
    ```
    git clone https://github.com/PavlaBerankova/MyRecipe.git
    ```
@@ -29,9 +29,8 @@ To download and test the Guess Number app on your local machine using GitHub and
 
 5. Build and run the application by clicking the "Play" button or pressing `Cmd + R`.
 
-6. The Guess Number app will launch in the simulator or on your connected iOS device, allowing you to play the game and test its features.
+6. The MyRecipe app will launch in the simulator or on your connected iOS device, allowing you to play the game and test its features.
 
-Have fun playing Guess Number!
 
 
 ## Screenshots
