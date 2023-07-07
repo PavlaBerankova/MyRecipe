@@ -35,9 +35,6 @@ To download and test the MyRecipe app on your local machine using GitHub and Xco
 
 ## Screenshots
 
-Here are some screenshots comparing the initial version of the Guess Number app from the main branch and the enhanced version from the version.2 branch:
-
-
 - **Light mode:**
 
 <div style="display: flex;">
