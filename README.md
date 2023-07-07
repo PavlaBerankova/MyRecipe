@@ -47,11 +47,15 @@ Here are some screenshots comparing the initial version of the Guess Number app 
 </div>
 
 
+<div style="display: flex;">
+  <img src="https://github.com/PavlaBerankova/MyRecipe/assets/107038196/18ad5f87-86e8-4ba1-97cd-0fdae24cf4ac" alt="CategoryDetail" width="400" />
+  <img src="https://github.com/PavlaBerankova/MyRecipe/assets/107038196/e8a979b3-5095-4ff8-8dd9-5be8a2dfb8fb" alt="RecipeDetail" width="400" />
+</div>
+
+
 ## Video
 
 https://github.com/PavlaBerankova/MyRecipe/assets/107038196/aed7f81b-1aeb-4bf6-844e-def51c2fcd49
-
-
 
 
 
