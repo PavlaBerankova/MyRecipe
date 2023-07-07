@@ -14,7 +14,7 @@ MyRecipe is a mobile application developed in SwiftUI for iOS. Application with 
 
 ## How to Download and Test the App
 
-To download and test the Guess Number app on your local machine using GitHub and Xcode, follow these steps:
+To download and test the MyRecipe app on your local machine using GitHub and Xcode, follow these steps:
 
 1. Install Xcode on your Mac. You can download Xcode from the Mac App Store or from the Apple Developer website.
 
