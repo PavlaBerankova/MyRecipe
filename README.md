@@ -39,17 +39,23 @@ Have fun playing Guess Number!
 Here are some screenshots comparing the initial version of the Guess Number app from the main branch and the enhanced version from the version.2 branch:
 
 
-- **Light and dark mode:**
+- **Light mode:**
 
 <div style="display: flex;">
-  <img src="https://github.com/PavlaBerankova/MyRecipe/assets/107038196/6436d395-3291-4d43-9b52-d6d89362d472" alt="LightMode" width="400" />
-  <img src="https://github.com/PavlaBerankova/MyRecipe/assets/107038196/5dfb59d6-8132-4e2c-b35e-4c95fb01ee8a" alt="DarkMode" width="400" />
+  <img src="https://github.com/PavlaBerankova/MyRecipe/assets/107038196/5042bf45-a419-4c14-a00e-2410ef5b170b" alt="LightMenu" width="400" />
+  <img src="https://github.com/PavlaBerankova/MyRecipe/assets/107038196/faad1a3e-fa13-4d29-881d-94aecff8a503" alt="LightCategoryDetail" width="400" />
+  <img src="https://github.com/PavlaBerankova/MyRecipe/assets/107038196/1ac3832e-4037-4f4e-bd6c-9fc9f3738f93" alt="LightRecipeDetail" width="400" />
+  <img src="https://github.com/PavlaBerankova/MyRecipe/assets/107038196/20b08f72-8dd4-4dd0-abd7-6a460b39b469" alt="LightAllRecipes" width="400" />
 </div>
 
 
+- **Dark mode:**
+
 <div style="display: flex;">
-  <img src="https://github.com/PavlaBerankova/MyRecipe/assets/107038196/18ad5f87-86e8-4ba1-97cd-0fdae24cf4ac" alt="CategoryDetail" width="400" />
-  <img src="https://github.com/PavlaBerankova/MyRecipe/assets/107038196/e8a979b3-5095-4ff8-8dd9-5be8a2dfb8fb" alt="RecipeDetail" width="400" />
+  <img src="https://github.com/PavlaBerankova/MyRecipe/assets/107038196/e082ef49-db81-4192-92b1-91d1b3700a5d" alt="DarktMenu" width="400" />
+  <img src="https://github.com/PavlaBerankova/MyRecipe/assets/107038196/60c8cbaf-8527-4e45-aae9-65953e04316b" alt="DarkCategoryDetail" width="400" />
+  <img src="https://github.com/PavlaBerankova/MyRecipe/assets/107038196/c2321ae5-dcb5-4bfb-9cc1-197d37959a18" alt="DarkRecipeDetail" width="400" />
+  <img src="https://github.com/PavlaBerankova/MyRecipe/assets/107038196/053e06ad-c8c6-489d-9103-30f4e9273d03" alt="DarkAllRecipes" width="400" />
 </div>
 
 
